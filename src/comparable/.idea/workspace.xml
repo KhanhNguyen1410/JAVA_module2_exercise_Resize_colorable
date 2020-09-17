@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3552d2b4-981d-47ea-8537-287ce2bc7efa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Access_Modifier/src/defauldemo/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Access_Modifier/src/defaultdemo2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Access_Modifier/src/prive/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Access_Modifier/src/prive/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Access_Modifier/src/protecteddemo/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Access_Modifier/src/protecteddemo2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Access_Modifier/src/publicmypack/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Access_Modifier/src/publicpack/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../QuadraticEquation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../QuadraticEquation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../QuadraticEquation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../QuadraticEquation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../QuadraticEquation/exercise_class_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../QuadraticEquation/out/production/exercise_class_method/EquationMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../QuadraticEquation/out/production/exercise_class_method/QuadraticEquation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../QuadraticEquation/src/EquationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../QuadraticEquation/src/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../animalClass_interface/animal_interfalse/src/Edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../animalClass_interface/animal_interfalse/src/Fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../animalClass_interface/animal_interfalse/src/Fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../animalClass_interface/animal_interfalse/src/Fruit/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../animalClass_interface/animal_interfalse/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../animalClass_interface/animal_interfalse/src/animalinterface/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../animalClass_interface/animal_interfalse/src/animalinterface/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../animalClass_interface/animal_interfalse/src/animalinterface/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice_shape/src/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice_shape/src/shape/Geometric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice_shape/src/shape/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice_shape/src/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../practice_shape/src/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../staticMethod/src/staticmethod/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../staticMethod/src/staticmethod/TestStaticMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Array_method" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Array_method" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1hdD4meq770NACF2yLfKdkRLbv2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3552d2b4-981d-47ea-8537-287ce2bc7efa" name="Default Changelist" comment="" />
+      <created>1600331886252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600331886252</updated>
+      <workItem from="1600331887311" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
